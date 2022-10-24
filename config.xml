@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://hcmc.uvic.ca/ns/staticSearch" version="2">
     <params>
-        <searchFile>C:/Users/tally/Documents/GitHub/Grimm_project/docs/12dancingprincesses.html</searchFile>
-        <versionFile>/Grimm_project/docs/VERSION</versionFile>
+        <searchFile>../Grimm_project/docs/12dancingprincesses.html</searchFile>
+        <versionFile>../Grimm_project/docs/VERSION</versionFile>
         <recurse>true<!--Need to set recurse to true for the test--></recurse>
         <phrasalSearch>true</phrasalSearch>
         <wildcardSearch>true</wildcardSearch>
